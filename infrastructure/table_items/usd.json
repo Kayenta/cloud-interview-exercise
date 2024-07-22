@@ -1,0 +1,11 @@
+{
+    "code": {
+        "S": "USD"
+    },
+    "name": {
+        "S": "United States dollar"
+    },
+    "rate": {
+        "N": "1"
+    }
+}

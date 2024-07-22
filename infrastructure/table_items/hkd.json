@@ -1,0 +1,11 @@
+{
+    "code": {
+        "S": "HKD"
+    },
+    "name": {
+        "S": "Hong Kong dollar"
+    },
+    "rate": {
+        "N": "0.13"
+    }
+}
